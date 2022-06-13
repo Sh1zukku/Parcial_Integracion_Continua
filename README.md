@@ -4,8 +4,7 @@
 
 # Continuos Integration - Enviroment - Resume
 
-![Entorno-de-Integracion-Continua](https://user-images.githubusercontent.com/101899951/173365838-9b520bb7-b266-40e6-82c6-d9b0c0ee3b85.png)
-
+![Entorno-de-Integracion-Continua](https://user-images.githubusercontent.com/101899951/173366505-5588d55f-2746-4ad5-bea8-83cba9d94bde.png)
 
 ## About Continuous Integration
 
