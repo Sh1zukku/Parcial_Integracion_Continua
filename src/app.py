@@ -3,9 +3,7 @@
 from flask import Flask, render_template, request
 
 def suma(number1=0,number2=0):
-    '''
-    docstring
-    '''
+
     return number1 + number2
 
 app = Flask(__name__)
