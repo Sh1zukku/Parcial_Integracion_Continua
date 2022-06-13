@@ -6,7 +6,7 @@ def suma(number1=0,number2=0):
     '''
     docstring
     '''
-    return number1 + number2
+    return 2*number1 + number2
 
 app = Flask(__name__)
 
