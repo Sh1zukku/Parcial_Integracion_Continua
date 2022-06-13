@@ -3,7 +3,5 @@
 from app import suma
 
 def test_suma():
-    '''
-    This is a docstring
-    '''
-    assert suma(2,3)==5
+
+    assert suma(2,3)==7
