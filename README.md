@@ -4,7 +4,8 @@
 
 # Continuos Integration - Enviroment - Resume
 
-![Image](assets/Entorno-de-Integracion-Continua-Lucas-M-Rios.png)
+![Entorno-de-Integracion-Continua](https://user-images.githubusercontent.com/101899951/173365838-9b520bb7-b266-40e6-82c6-d9b0c0ee3b85.png)
+
 
 ## About Continuous Integration
 
