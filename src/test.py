@@ -6,4 +6,4 @@ def test_suma():
     '''
     This is a docstring
     '''
-    assert suma(2,3)==7
+    assert suma(2,3)==5
